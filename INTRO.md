@@ -2,7 +2,7 @@ For many years we have been acquiring knowledge about blockchain technology, loo
 We have 3 proprietary platforms in which we use the TRX cryptocurrency and our own MONx token, built on the TRON network.
  
 
-#OneMillion - The use of cryptocurrencies in everyday life
+# OneMillion - The use of cryptocurrencies in everyday life
 
 The OneMillion project brings together many platforms that create a comprehensive ecosystem within which the user has the opportunity to:
 
@@ -20,16 +20,19 @@ We've also created our proprietary MONx token, whose value is based on usability
 
 We use TRON technology in all our platforms and implement it in other companies as part of the tokenization service. In recent months, a lot of companies wanting to tokenize their business come to us, we recommend the TRON network to each of them. We consider ourselves TRON network ambassadors in Europe.
 
-#Our platforms:
+# Our platforms:
 
- ##OneMillionShop - Marketplace where cryptocurrencies are used to pay for goods and services. TRX is one of them. We use our payment processor on the site, thanks to which customers pay for purchases in the cryptocurrency and sellers receive traditional currencies, without exchange rate risk. Website: https://onemillionshop.com/
+ ## OneMillionShop
+Marketplace where cryptocurrencies are used to pay for goods and services. TRX is one of them. We use our payment processor on the site, thanks to which customers pay for purchases in the cryptocurrency and sellers receive traditional currencies, without exchange rate risk. Website: https://onemillionshop.com/
 
 We plan to enable holders of our MONx token to receive a percentage of the platform's profit by freezing tokens. We want to do it in a TRON sweetheart as DAAP.
 
 
 
 
-##OneMillion Coupons - The platform is used to distribute MONx tokens; to the affiliate program; selling the Tokenization service; internal stock exchange. In the future, it will be used to distribute OneMillionShop revenue dividends to users.
+## OneMillion Coupons
+The platform is used to distribute MONx tokens; to the affiliate program; selling the Tokenization service; internal stock exchange. In the future, it will be used to distribute OneMillionShop revenue dividends to users.
 
- ##AT.Systems - Automatic trading software on the cryptocurrency market, access to which can be purchased by paying with MONx tokens.
+ ## AT.Systems
+Automatic trading software on the cryptocurrency market, access to which can be purchased by paying with MONx tokens.
 Website: https://at.systems/
