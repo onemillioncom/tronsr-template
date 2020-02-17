@@ -22,7 +22,7 @@ We use TRON technology in all our platforms and implement it in other companies 
 
 # Our platforms:
 
- ## OneMillionShop
+- OneMillionShop
 Marketplace where cryptocurrencies are used to pay for goods and services. TRX is one of them. We use our payment processor on the site, thanks to which customers pay for purchases in the cryptocurrency and sellers receive traditional currencies, without exchange rate risk. Website: https://onemillionshop.com/
 
 We plan to enable holders of our MONx token to receive a percentage of the platform's profit by freezing tokens. We want to do it in a TRON sweetheart as DAAP.
@@ -30,9 +30,9 @@ We plan to enable holders of our MONx token to receive a percentage of the platf
 
 
 
-## OneMillion Coupons
+- OneMillion Coupons
 The platform is used to distribute MONx tokens; to the affiliate program; selling the Tokenization service; internal stock exchange. In the future, it will be used to distribute OneMillionShop revenue dividends to users.
 
- ## AT.Systems
+ - AT.Systems
 Automatic trading software on the cryptocurrency market, access to which can be purchased by paying with MONx tokens.
 Website: https://at.systems/
