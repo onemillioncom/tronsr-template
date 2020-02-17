@@ -33,6 +33,6 @@ We plan to enable holders of our MONx token to receive a percentage of the platf
 - OneMillion Coupons
 The platform is used to distribute MONx tokens; to the affiliate program; selling the Tokenization service; internal stock exchange. In the future, it will be used to distribute OneMillionShop revenue dividends to users.
 
- - AT.Systems
+- AT.Systems
 Automatic trading software on the cryptocurrency market, access to which can be purchased by paying with MONx tokens.
 Website: https://at.systems/
