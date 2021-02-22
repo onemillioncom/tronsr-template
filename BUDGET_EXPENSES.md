@@ -5,4 +5,4 @@
 10% Acceleration of advertising and marketing campaigns
 5% OneMillion Software House development
 
-Our strategy is to distribute 50% of the prize between voters
+Our strategy is to distribute 50% of the prize between voter
