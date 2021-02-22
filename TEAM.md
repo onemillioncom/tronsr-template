@@ -10,3 +10,36 @@ For many years of market presence, we have noticed a lot of problems and restric
 
 At the core of our idea is the experience of sales representatives, lawyers and financiers as well as the practical skills of programmers who are part of our software house. A few years ago, we were united by the idea of ​​decentralized, independent money that can be paid in everyday life, legally multiplied and traded. We also want to infect users of our platform with this idea. We are convinced that its unusual commercial advantages will enable
 taking advantage of the benefits of cryptocurrency to anyone who sees the huge potential of this form of payment and wants to change the way people trade and buy services on the internet.
+
+#### Krzysztof Perek - CEO OneMillion
+https://www.linkedin.com/in/krzysztof-perek-630935159/
+
+#### Marcin Walkowski - Co-founderCEO OneMillion & CEO OneMillionTrading Systems, Co-founder
+https://www.linkedin.com/in/marcinwalkowskiomg/
+
+#### Adam Wachta - Commercial director - https://www.linkedin.com/in/adam-wachta-20ab46136/
+
+#### Piotr Watoła - CTO OneMillion
+https://www.linkedin.com/in/piotr-watola/
+
+#### Aleksandra Dramska - Operations Manager
+https://www.linkedin.com/in/aleksandra-dramska-manterys-549388124/
+
+#### Kuba Nagórski - Marketing Manager
+https://www.linkedin.com/in/kubanagorski/
+
+#### Jakub Karaszewski - Marketing Specialist
+https://www.linkedin.com/in/jakubkaraszewski/
+
+#### Piotr Kubasik - Project Development Specialist
+https://www.linkedin.com/in/piotr-kubasik-8a463073/
+
+#### Jakub Kuźnia - E-commerce Specialist
+https://www.linkedin.com/in/jakub-ku%C5%BAnia-374298205/
+
+#### Dawid Walkowski - Office Manager
+https://www.linkedin.com/in/dawid-walkowski-356295159/
+
+#### Kamil Mandrysz - Frontend Developer
+https://www.linkedin.com/in/kamil-mandrysz-207b511a1/
+
