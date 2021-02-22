@@ -14,7 +14,7 @@ taking advantage of the benefits of cryptocurrency to anyone who sees the huge p
 #### Krzysztof Perek - CEO OneMillion
 https://www.linkedin.com/in/krzysztof-perek-630935159/
 
-#### Marcin Walkowski - Co-founderCEO OneMillion & CEO OneMillionTrading Systems, Co-founder
+#### Marcin Walkowski - Co-founder OneMillion & CEO OneMillionTrading Systems
 https://www.linkedin.com/in/marcinwalkowskiomg/
 
 #### Adam Wachta - Commercial director - https://www.linkedin.com/in/adam-wachta-20ab46136/
